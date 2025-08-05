@@ -1,4 +1,4 @@
-# 🧠 AI-Powered UX Projects
+# 🧠 AI-Powered Projects
 
 This page showcases four AI-based projects I developed to explore how machine learning can enhance UX analysis, visual search, and user behavior understanding. All projects are fully functional, containerized with Docker, and deployed online.
 
