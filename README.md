@@ -1,6 +1,6 @@
 # 🧠 AI-Powered Projects
 
-This page showcases four AI-based projects I developed to explore how machine learning can enhance UX analysis, visual search, and user behavior understanding. All projects are fully functional, containerized with Docker, and deployed online.
+This page showcases four AI-powered demos designed to explore how machine learning can capture, interpret, and predict human behavior — from interaction patterns to individual preferences. All projects are production-ready, containerized with Docker, and deployed online.
 
 🌐 [See full portfolio site](https://thomaslebras5.wixsite.com/thomaslebras)  
 🎯 [Jump directly to the portfolio section](https://thomaslebras5.wixsite.com/thomaslebras/portfolio)
@@ -50,7 +50,7 @@ Embeddings are computed for both queries and documents to retrieve the most sema
 ---
 
 ## 🖱️ [CursorAI](https://thomaslebras5.wixsite.com/thomaslebras/copie-de-attentionai)  
-**Measure user engagement from their mouse movements.**
+**Measure engagement from mouse movements.**
 
 Predicts engagement level in under 15 seconds using only cursor behavior.  
 Useful for early-stage UX evaluations or dynamic personalization.
